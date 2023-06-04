@@ -13,16 +13,15 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('user_product_favorites', function (Blueprint $table) {
             $table->mediumIncrements('id');
-            $table->string('first_name');
-            $table->string('last_name');
-            $table->string('identity');
-            $table->string('email')->unique();
-            $table->string('phone');
-            $table->string('password');
+            $table->unsignedMediumInteger('product_id');
+            $table->unsignedMediumInteger('user_id');
+
+            $table->foreign('product_id')->references('id')->on('products')->cascadeOnUpdate()->cascadeOnDelete();
+            $table->foreign('user_id')->references('id')->on('users')->cascadeOnUpdate()->cascadeOnDelete();
+
             $table->timestamps();
-            $table->softDeletes();
         });
     }
 
@@ -33,6 +32,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('user_product_favorites');
     }
 };
