@@ -1,0 +1,111 @@
+1. https://placement.wimbledonacademy.com.tr/ (Fullstack | Laravel + Tema Giydirmesi)
+    - İngilizce seviye belirleme projesi
+    - Farklı seviye levellerinden oluşur, ve sonraki levele geçebilmesi için sorulardan bir kısmını doğru bilmesi gerekiyor, doğruluk oranını tamamladığında sonraki levelin sorularına geçebiliyor bu böyle son levele kadar devam ediyor. Bu yapı tamamen dinamiktir.
+    - Öğrenci bilgilerini girer ve test başlar. Sorular rastgele gelir, belirli bir süre kısıtlaması vardır, test sonucunda öğrencinin hangi levelde olduğu ve o leveldeki soruların doğru yanlış boş istatistikleri gösterilir.
+    - Öğrenci isterse bu sonuçları kendine mail olarak gönderebilir veya tekrar testi çözebilir.
+
+1. https://experiences.wla.com.tr/  (Fullstack | Laravel + Tema Giydirmesi)
+1. https://www.webudi.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+    - İçerisinde; Hakkında, Referanslar, Ekibimiz, Hizmetler, Çalışmalar, Blog ve İletişim gibi standart sayfalar bulunur.
+    
+1. https://www.sipahiogluyapi.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+    - İçerisinde; Hakkında, Tamamlanan ve devam eden projeler ve İletişim gibi standart sayfalar bulunur.
+1. https://www.prodis.com.tr/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+    - İçerisinde; Hakkında, Yorumlar, Blog, Franchise başvuru formu ve İletişim gibi standart sayfalar bulunur.
+1. https://www.pino.com.tr/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+    - Standart sayfaların yanında ürün kategorileri ve onların ürünleri olacak şekilde tasarlanmıştır.
+    - Detay sayfasında ürünün detayları, ürünün resimleri ve aynı kategorideki benzer ürünler gösterilir.
+1. http://guvendeyiz.test/ana-sayfa (Fullstack | Laravel + Tema Giydirmesi)
+    - Eğitim Platformu
+    - Bu eğitim platformu temelde; öğrencilere tamınlanan modüllerden, bu modüllere tanımlanmış ön değerlendirme, son değerlendirme, öğrenim içerikleri, modül değerlendirmeleri ve kaynakların paylaşılması gibi özellikler sunar.
+    - Öğrenci modüller arası geçişlerde eğer son değerlendirme'de yeterli gereksinimi sağlarsa sonraki modüle geçiş yapabilir veya adminden öğrenciye manuel olarak modül tanımlaması yapılabilir.
+    - Admin'den sisteme ait tüm içerikler yönetilebilir. Değerlendirmelerin istatistikleri, yüklenen videolar vs. hakkında tüm bilgiler görüntülenebilir.
+    - Ayrıca bu projede loglama ve mesajlaşma sistemi de bulunur.
+1. https://www.3byem.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+    - İçerisinde; Hakkında, Yaklaşan Sergiler, Sergi Galerisi, Katalog, Öğretmen ve öğrenciler için dökümanlar, haber ve iletişim gibi standart sayfalar bulunur.
+1. https://www.dogalaba.com.tr/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sites
+1. https://www.atillaatar.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kişisel web sitesi, halihazırda asp.net ile yapılmıştı, ben aynı yapıyı laravel'e taşıyarak aynı ui ile tekrar yazdım.
+    - İçerisinde; Kategorilere sahip sanatçı eserleri galeri şeklinde gösterilir, biyografi, ödüller, yayınlar gibi bir çok biyografik bilgi bulunur.
+1. https://www.sundubisiklet.com/tr (Destek)
+    - E-ticaret sitesi
+    - Halihazırda geliştirilmiş olan bu projenin tamamının translation'ı yapıldı. Tüm statik yazılar için translation yazıldı ve uygulanması sağlandı.
+1. https://www.otizmdeyolaliyoruz.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Eğitim Platformu + Kurumsal web sitesi
+    - Proje 2 bölümden oluşuyor birincisi kurumsal web sitesi, ikincisi ise eğitim platformu.
+    - Farklı modül tipleri bulunan bu sistemde; ön değerlendirme, son değerlendirme, içerik okuma, dinleme, video yükleme vs. sistemin özelliklerinden bazılarıdır.
+    - Tüm içerikler okunmadan son değerlendirmeye geçilemez. Son değerlendirmelerde admin'in belirlediği başarı oranı sağlanmadan sonraki modüle geçilemez.
+    - Ayrıca bu projede loglama ve mesajlaşma sistemi de bulunur.
+    - Admin'den oluşturulan modüllere girilen tüm içerikler yönetilebilir. Oldukça esnek ve dinamik bir yapıda yazılmıştır.
+    - Admin'den sisteme ait tüm içerikler yönetilebilir. Değerlendirmelerin istatistikleri, yüklenen videolar vs. hakkında tüm bilgiler görüntülenebilir.
+1. https://www.mageakademi.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - E-ticaret sitesi (Dinamik Dil Yapısı)
+    - Bu projede müşterinin sattığı dijital ürünlerin (Seminerler, programlar, ve etkinlikler) yanı sıra satın aldıkları video setlerini de izleyebileceği bir sistem mevcut.
+    - Ödeme altyapısı olarak iyzico kullanılmıştır, kredi kartı veya havale ile ödeme alınabilir, ve tüm bu ödeme süreci ile ilgili işlemler admin panelinden görüntülenebilir.
+1. https://www.leonlanguage.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Eğitim Platformu + E-ticaret sitesi
+    - Netgsm sms SOAP servisi ve Zoom API kullanılmıştır.
+    - Proje öğrenci, öğretmen ve admin panellerinden oluşur.
+    - Online ingilizce eğitim ürünleri ve fiziksel kitapların satıldığı eğitim + e-ticaret platformudur.
+    - Register olan öğrenci önce tanılama testini sonra da sihirbazı tamamlayarak kendi seviyesini belirler ve kendisine uygun olan kursları görüntüleyebilir.
+    - Proje temel olarak; Ders programı, canlı dersler, ders kayıtları, sınavlar, ödevler, kaynaklar ve duyurular gibi kapsamlı bir yapıya sahiptir.
+    - Bu sayılanlar öğretmen ve öğrenci panellerinden birbirleriyle etkileşimli olarak kullanılabilir.
+    - Öğrenci ve öğretmenlerin birbirleriyle mesajlaşabileceği bir mesajlaşma sistemi bulunur.
+    - Ödeme altyapısı olarak iyzico kullanılmış olup, müşteri kayıtlı kartları ile ödeme yapabildiği gibi, kart bilgilerini girerek de ödeme yapabilmektedir.
+1. https://www.globeistanbul.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+    - Agency ve Production olmak üzere 2 kurumsal yapıdan oluşur.
+1. https://www.evodad.org/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+1. https://www.erkankantarci.com/ (Destek)
+    - E-ticaret sitesi
+    - Halihazırda geliştirilmiş olan bu projenin ihtiyaç duyulan kısımlarına destek verildi.
+1. https://www.emrealtunmuhendislik.com/ (Fullstack | Laravel + Tema Giydirmesi)
+    - Kurumsal web sitesi
+1. https://akademi.downturkiye.org/ (Destek)
+    - Eğitim Platformu + E-ticaret sitesi
+    - Anasayfadaki takvim ve UI/UX tarafına destek verildi.
+1. https://www.downturkiye.org/ (Fullstack | Laravel + Tema Giydirmesi) (Projenin %90'ı bana aittir)
+    - Kurumsal web sitesi
+    - Bu projede rol bazlı yetkilendirme sistemi ve loglama kullanılmasının yanı sıra, ön yüzdeki bağış altyapısında fonzip entegrasyonu yapılmıştır.
+    - Yapılan bağışlar ve sistem bünyesindeki databanka ait veriler filtrelenebilir ve excel formatında indirilebilir.
+    - İçerik sayfaları için dinamik bir yapı tasarlandı, böylelikle seçilen şablonlara göre içerikler rahatlıkla oluşturulabilir.
+    - Oldukça kapsamlı bir yapıya sahip olan kurumsal web sitesi.
+1. CABOT API (API | Laravel)
+    - Mobil uygulama için geliştirilen API
+    - Özel geliştirilen bu mobil projede, oyunlaştırılmış testleri çözen kullanıcıların verileri kaydedilir ve bu veriler müşterinin bize ilettiği öğrencinin sonucunu bulmak için kullanılan dökümanların algoritmaya çevrilerek pdf ve excel formatında indirilmesi ile sonuçlandırılır.
+    - Admin paneli üzerinden öğretmenlere ait öğrenci listesi ve bu öğrencilerin sonuçlarına ve raporlarına ilişkin tüm bilgiler görüntülenebilir ve indirilebilir.
+1. SW-19 API (Destek)
+    - Web uygulaması için geliştirilen API
+    - Oldukça kapsamlı bir yapıya sahip olan bu öğrenci yönetim sisteminde, ihtiyaç duyulan kısımlarına destek verildi.
+1. Genç Beyin (https://apps.apple.com/us/app/genç-beyin/id6449539114) (API | Laravel)
+    - Mobil uygulama için geliştirilen API
+    - Borsa İstanbul endeksinde yer alan şirketler için yapılan işlemlerin takibini kolaylaştırmak adına geliştirildi.
+    - Bu uygulama ile müşterilerin mevcut portföyü takip edilebilir, alış satış işlemleri kolaylıkla kontrol edilebilinir. Uygulama içinde yer alan Trade listesi ile güncel endeks verilerine erişilebilinir.
+1. Espardile (https://apps.apple.com/us/app/espardile/id6449541828) (API | Laravel)
+    - Mobil uygulama için geliştirilen API
+    - Halihazırda web sitesi bulunan bu projenin mobil uygulaması için API geliştirildi.
+    - Espardile fiziksel ürün satışı yapan bir e-ticaret sitesidir.
+1. Falistan (API | Laravel)
+    - Mobil uygulama için geliştirilen API
+    - Admin'den falcılara; müsait tarihleri, saatleri, bakacağı fallar ve fal ücretleri gibi bilgiler girilir. Client tarafında müşteri falcı'dan müsait gün ve saate rezervasyon satın alır.
+    - Rezervasyonlardan ayrı olarak sistem üzerinden Queue kullanılarak, kullanıcıların gönderdiği fal talepleri sıraya alınır ve sıraya alınan bu taleplerin sonuçları belirlenen bir süre sonunda kullanıcıya gönderilir.
+    - Ödeme altyapısı olarak iyzico kullanılmış olup, müşteri kayıtlı kartları ile ödeme yapabildiği gibi, kart bilgilerini girerek de ödeme yapabilmektedir.
+    - Falistan'da ayrıca; Burç özelliklerinin bulunduğu bir sayfa, dilek listelerinin bulunduğu bir sayfa ve kart oyunu bulunmaktadır.
+    - Kart oyununu 24 saatte bir oynanabilir şekilde kurgulanmış olup oyunu başarıyla tamamlayanlara özel bir indirim kuponu generate edilir.
+1. Vip Kurum (Fullstack | Laravel + Tema Giydirmesi) (En uzun süre çalıştığım proje)
+    - 4 kapsamlı panel + önyüzden oluşan büyük bir deshane yönetim sistemidir.
+    - Ben bu proje'de öğrenci ve öğretmen panellerini en baştan başlayarak geliştirdim ve sonrasında kurum panelinde de rol aldım.
+    - En fazla challenge ile karşılaşıp, en fazla tecrübeyi kazandığım projedir.
+1. https://www.sindirgi.bel.tr/ (Fullstack | Laravel + Tailwindcss)
+    - Laravel'i öğrendikten sonra yaptığım ve bana büyük tecrübe katan ilk projemdir.
+    - Tüm süreçlerini ben yönettim, kodlamadan yayına almaya ve maintenance'a kadar.
+1. http://sindirgidaturizm.com/ (Fullstack | Laravel)
+    - Laravel'i yeni öğrendiğim dönemde yaptığım bir proje.
+    - Kurumsal bir web sitesi sayılabilir.
